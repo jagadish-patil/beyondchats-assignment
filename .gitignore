@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+
+# Laravel
+phase1-laravel/vendor/
+phase1-laravel/.env
+
+# React
+phase3-frontend/node_modules/
+phase3-frontend/dist/
+
+# OS
+.DS_Store
