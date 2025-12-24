@@ -7,8 +7,7 @@ phase1-laravel/vendor/
 phase1-laravel/.env
 
 # React
-phase3-frontend/node_modules/
-phase3-frontend/dist/
+phase3-frontend-react/node_modules/
 
 # OS
 .DS_Store
