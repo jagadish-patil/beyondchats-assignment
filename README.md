@@ -36,6 +36,10 @@ php artisan migrate
 
 php artisan serve
 
+or 
+
+php artisan serve --host=127.0.0.1 --port=8000
+
 
 ### 2️⃣ Phase 2 – NodeJS Pipeline
 
